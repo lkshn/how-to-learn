@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
@@ -63,3 +63,4 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
